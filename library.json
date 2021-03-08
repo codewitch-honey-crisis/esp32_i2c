@@ -1,0 +1,18 @@
+{
+  "name":"esp32_i2c",
+  "description":"I2C bus interaction library",
+  "keywords":"I2C,bus,device,hardware,devices",
+  "authors":
+  {
+    "name": "codewitch-honey-crisis",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/codewitch-honey-crisis/esp_i2c.git"
+  },
+  "version": "0.1.0",
+  "frameworks": "espidf",
+  "platforms": "espressif32"
+}
